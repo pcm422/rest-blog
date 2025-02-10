@@ -2,7 +2,7 @@ from .local import *
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['pcm0422.pythonanywhere.com']
 
 DATABASES = {
     'default': {
